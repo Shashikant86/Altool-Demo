@@ -2,4 +2,4 @@
 #
 # Ensure this file is checked in to source control!
 
-gem 'fastlane-plugin-altool', :path => "/Users/shashi/workspace/fastlane-plugin-altool"
+gem 'fastlane-plugin-altool'
